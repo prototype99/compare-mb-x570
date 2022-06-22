@@ -1,0 +1,19 @@
+brand,model,wifi?,"max ram size (GB)","max ram freq (mhz)","ram slots",size
+"ASRock X570",Extreme4,n,128,4666,4,atx
+"ASRock X570","Phantom Gaming-ITX/TB3",y,64,4533,2,"mini itx"
+"ASRock X570","Phantom Gaming 4 WiFi AX",y,128,4666,4,atx
+"ASRock X570","Steel Legend",n,128,4666,4,atx
+"ASRock X570","Steel Legend WIFI AX",y,128,4666,4,atx
+ASRock,"X570 Pro4",n,128,4666,4,atx
+ASRock,"X570M Pro4",n,128,4400,4,"micro atx"
+ASRock,"X570S PG RIPTIDE",n,128,5000,4,atx
+ASUS,"Prime X570-P",n,128,4400,4,atx
+Asus,"PRIME X570-P/CSM",n,128,4400,4,atx
+ASUS,"TUF Gaming X570-Plus (Wi-Fi)",y,128,5100,4,atx
+ASUS,"TUF Gaming X570-Plus",n,128,5100,4,atx
+MSI,"MPG X570 Gaming Edge",y,128,4400,4,atx
+"GIGABYTE ","X570 AORUS Elite",n,128,4733,4,atx
+Gigabyte,"X570 AORUS Elite WiFi",y,128,4733,4,atx
+Gigabyte,"X570 UD",n,128,4000,4,atx
+MSI,"MPG X570 GAMING PLUS",n,128,4800,4,atx
+MSI,"X570-A PRO",n,128,4800,4,atx
